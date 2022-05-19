@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "795088196851",
+    "project_id": "meow-9217f",
+    "storage_bucket": "meow-9217f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795088196851:android:816ff5a5c6f72922c51386",
+        "android_client_info": {
+          "package_name": "com.caretutors_merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795088196851-o741qiiq9ln1ina9036utbohuhvfc5b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmWkmOe4aQyEC3TN0V2ekQO8YLMraZ8F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795088196851-o741qiiq9ln1ina9036utbohuhvfc5b5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795088196851-4u689bsrdasehh2bs81ceh1uijirtehm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.remoteconfigfirebaseexample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795088196851:android:69ccee7b40b5ad5bc51386",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_with_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795088196851-o741qiiq9ln1ina9036utbohuhvfc5b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmWkmOe4aQyEC3TN0V2ekQO8YLMraZ8F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795088196851-o741qiiq9ln1ina9036utbohuhvfc5b5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795088196851-4u689bsrdasehh2bs81ceh1uijirtehm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.remoteconfigfirebaseexample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795088196851:android:4926851414d704d3c51386",
+        "android_client_info": {
+          "package_name": "com.example.meow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795088196851-o741qiiq9ln1ina9036utbohuhvfc5b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmWkmOe4aQyEC3TN0V2ekQO8YLMraZ8F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795088196851-o741qiiq9ln1ina9036utbohuhvfc5b5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795088196851-4u689bsrdasehh2bs81ceh1uijirtehm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.remoteconfigfirebaseexample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795088196851:android:e1d49028e84f07b3c51386",
+        "android_client_info": {
+          "package_name": "com.example.remote_config_firebase_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795088196851-o741qiiq9ln1ina9036utbohuhvfc5b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmWkmOe4aQyEC3TN0V2ekQO8YLMraZ8F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795088196851-o741qiiq9ln1ina9036utbohuhvfc5b5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795088196851-4u689bsrdasehh2bs81ceh1uijirtehm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.remoteconfigfirebaseexample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
