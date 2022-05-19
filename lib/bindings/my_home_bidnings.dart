@@ -6,6 +6,11 @@ class MyHomeControllerBinding implements Bindings {
   void dependencies() {
     Get.put(
       MyHomeController(),
+      permanent: true,
+      // Why this is permanent?
+      // Cause we are about to use firebase notification listner in MyHomeConroller.
+      // out objective is to listen if the app is mode.
+      //
     );
   }
 }
